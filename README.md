@@ -58,7 +58,7 @@ Wolimy małą, zaangażowaną grupę niż masówkę bez interakcji. Dlatego licz
 Zainteresowany? Zapisz się już teraz używając Eventownika: 
 https://eventownik.solvro.pl/wakacyjne-wyzwanie-solvro 
 
-Odwiedź również [Soft Skill Support Squad](https://4s.pwr.edu.pl/) i [Project Management Group}(https://www.pmgroup.pwr.edu.pl/), które współorganizują Naszą ścieżkę!
+Odwiedź również [Soft Skill Support Squad](https://4s.pwr.edu.pl/) i [Project Management Group](https://www.pmgroup.pwr.edu.pl/), które współorganizują Naszą ścieżkę!
 
 Więcej na naszych social mediach:
 [LinkedIn](https://www.linkedin.com/company/knsolvro/)
