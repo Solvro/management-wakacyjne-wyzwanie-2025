@@ -1,4 +1,4 @@
-# 🧭 Ścieżka: Project Management
+# 🧭 Od zera do Project Managera
 
 > Od zera do Project Managera. Serio. W 2 miesiące.
 
@@ -9,8 +9,8 @@ W ramach **Wakacyjnego Wyzwania Solvro 2025** masz szansę przejść praktyczną
 Spotykamy się **w środy o 17:00**, w formule **zdalnych warsztatów (do 3h)**. Każde spotkanie to treściwa dawka praktyki i informacji, żadnego lania wody.
 
 1. **Zarządzanie projektami w metodykach zwinnych** - 4S - `6 sierpnia`
-2. **Design Thinking w praktyce** - Solvro - `13 sierpnia`
-3. **Zarządzanie zespołem** - PMG - `20 sierpnia`
+2. **Zarządzanie zespołem** - PMG - `13 sierpnia`
+3. **Design Thinking w praktyce** - Solvro - `20 sierpnia`
 4. **Facylitacja warsztatów i spotkań** - 4S - `27 sierpnia`
 5. **Leadership: jak być liderem, a nie szefem** - 4S - `3 września`
 6. **Github Projects i zarządzanie zadaniami** - Solvro - `10 września`
@@ -33,7 +33,7 @@ Praca projektowa jest częścią kursu - rozwijasz się, działasz, a przy okazj
 
 ## 💼 Inspiracja z sylabusów PWr
 
-Ten kurs to nie tylko praktyka — ale i świetne uzupełnienie do kierunków technicznych. Nawiązujemy m.in. do kursów:
+Ten kurs to nie tylko praktyka - ale i świetne uzupełnienie do kierunków technicznych. Nawiązujemy m.in. do kursów:
 
 * *Podstawy zarządzania projektem (2 ECTS)*
 * *Wprowadzenie do zarządzania projektami informatycznymi (4 ECTS)*
